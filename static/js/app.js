@@ -10,7 +10,7 @@ function buildTable(data) {
   tbody.html("");
 
   // wrtie a forEach loop to interate through array for each row; use let for this block of code to add a table row to html
-  data.forEach(dataRow)=> {
+  data.forEach((dataRow) => {
     let row = tbody.append("tr");
     // loop through data rows for table data; reference one object in array and values of one object per row
     // append a row and add value to each cell
@@ -19,7 +19,7 @@ function buildTable(data) {
       cell.text(val);
       }
     );
-  }):
+  });
 }
 
 // Function to detect click for filter
@@ -40,4 +40,4 @@ function handleClick() {
 d3.selectAll("#filter-btn").on("click", handleClick);
 
 // Build the table when the page loads
-buildTable(tableData);
+buildTable(tableData)
