@@ -8,7 +8,7 @@ See full table on webpage here,
 ## Results
 To filter the UFO sightings table, enter any or all of the desired search criteria in the provided fields - date, city, state, country and/or shape. The filtered table appears to the right.
 
-See table with filtered data with all fields used, here -
+See table with filtered data with all fields used, here - https://github.com/Ninax3/UFOs/blob/main/Filter_Single_Outcome.png
 
 See table with only the date criteria used, here - 
 
