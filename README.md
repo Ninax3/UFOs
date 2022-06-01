@@ -20,4 +20,4 @@ The UFO Sightings webpage and table prove to be a visually dynamic way to displa
 The following revisions are recommended to enhance the current webpage -  
 1. Add a numbered list to the table results and results count per search. 
 2. Ability to filter with a drop down selection at the column title. For example, by date. 
-3. A "no results" message for when filter criteria returns no results. 
+3. A "no results" message for when filter criteria returns no results. See current table, with no results returned, here - https://github.com/Ninax3/UFOs/blob/main/No_Results_Filter.png
