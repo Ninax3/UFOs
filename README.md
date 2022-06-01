@@ -3,7 +3,7 @@
 ## Project Overview
 UFO sightings data stored in a data file as a JavaScript array was imported and converted to a dynamic table using JavaScript. Displayed in a user-friendly webpage using HTML, CSS and Bootstrap, the table is able to be filtered based on key values such as date, city, state, country and shape. 
 
-See full table on webpage here, 
+See full table on webpage here, https://github.com/Ninax3/UFOs/blob/main/Full%20Table%20.png
 
 ## Results
 To filter the UFO sightings table, enter any or all of the desired search criteria in the provided fields - date, city, state, country and/or shape. The filtered table appears to the right.
