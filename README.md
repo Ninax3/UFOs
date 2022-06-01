@@ -12,7 +12,7 @@ See table with filtered data with all fields used, here - https://github.com/Nin
 
 See table with only the date criteria used, here - https://github.com/Ninax3/UFOs/blob/main/Filter_by_Date.png
 
-See table with only the shape criteria used, here - 
+See table with only the shape criteria used, here - https://github.com/Ninax3/UFOs/blob/main/Filter_by_Shape.png
 
 ## Summary
 The UFO Sightings webpage and table prove to be a visually dynamic way to display the data contained in the JavaScript array. The table can easily be updated as data is added to the original JavaScript file. However, the table displayed is limited to the columns established and shown. If a new column were to be added to the data file, JavaScript code will need to be revised to show it on the webpage table.
