@@ -10,7 +10,7 @@ To filter the UFO sightings table, enter any or all of the desired search criter
 
 See table with filtered data with all fields used, here - https://github.com/Ninax3/UFOs/blob/main/Filter_Single_Outcome.png
 
-See table with only the date criteria used, here - 
+See table with only the date criteria used, here - https://github.com/Ninax3/UFOs/blob/main/Filter_by_Date.png
 
 See table with only the shape criteria used, here - 
 
